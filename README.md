@@ -1,0 +1,2 @@
+# Mygit
+casual learning
